@@ -7,6 +7,8 @@ URL shortening is a technique on the World Wide Web in which a Uniform Resource 
 <h2 align="left"> Tech Stacks :</h2>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a><a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="css" width="50" height="60"/> </a><a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="css3" width="80" height="70"/> </a><a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png" alt="css3" width="100" height="50"/> </a>
  </p>
+ <h2> Preview of Project :</h2>
+ <img src="https://github.com/dheerajrao20/URLshortner/blob/main/Images/screenshot.png?raw=true" />
   <h2 align="left">Contributors :</h2>
 <a href="https://github.com/dheerajrao20/URLshortner/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=dheerajrao20/URLshortner" />
