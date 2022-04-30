@@ -69,13 +69,19 @@ virtualenv venv
 venv\scripts\activate
 ```
 
-**7.** Try to **Run** the project :
+**7.** Install **Django** in virtualenv :
+
+```
+pip install django
+```
+
+**8.** Try to **Run** the project :
 
 ```
 python manage.py runserver
 ```
 
 
-**8.** AND there is the project running in your browser.
+**9.** AND there is the project running in your browser.
 
 <h1 align="center">🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉 </h1>
